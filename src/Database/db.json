@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "name": "Mohd Shami",
+      "username": "mohdshami",
+      "email": "shami@gmail.com",
+      "phone": "7896547896",
+      "id": 1,
+      "course": "DBMS"
+    },
+    {
+      "name": "Shikhar Dhawan",
+      "username": "dhawansikhar",
+      "email": "dhawan@gmail.com",
+      "phone": "4569874563",
+      "id": 2,
+      "course": "Web Development"
+    },
+    {
+      "name": "Akshay Kumar",
+      "username": "akshay007",
+      "email": "akshay@gmail.com",
+      "phone": "643643332",
+      "id": 5,
+      "course": "Cyber Security"
+    },
+    {
+      "name": "Stevie Haines",
+      "username": "stive289",
+      "email": "steive@gmail.com",
+      "phone": "263723948",
+      "id": 6,
+      "course": "AI ML"
+    },
+    {
+      "name": "Ishita Sharma",
+      "username": "ish32874",
+      "email": "ishita@gmail.com",
+      "course": "DBMS",
+      "phone": "37748493",
+      "id": 8
+    }
+  ]
+}
